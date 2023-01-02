@@ -1,17 +1,17 @@
-### 💾 -- INSTALL DEPENDENCIES
+#### -- INSTALL DEPENDENCIES
 
 npm install or yarn
 
-### 🏁 -- START DEVELOPMENT SERVER
+#### -- START DEVELOPMENT SERVER
 
 npm run start
 
-### 🚀 -- PRODUCTION BUILD
+#### -- PRODUCTION BUILD
 
 npm run build<br />
 npm run deploy iterate with gh-pages
 
-### 🌈 -- COLOR CODES
+#### -- COLOR CODES
 
 theme toggle : <br />
 https://react-toggle-dark-mode.netlify.app/ <br />
@@ -30,11 +30,11 @@ light theme :
 --indigo: #5D6EDD;<br />
 --light-gray: #ced4da;<br />
 
-### ✍️ -- FREE FONTS SOURCE
+#### -- FREE FONTS SOURCE
 
 Millimetre-bold : https://velvetyne.fr/<br />
 Inter-medium <br />
 
 
-### 🔔 -- REACT NOTIFICATIONS FOR THE QUIZZ GAME
+#### -- REACT NOTIFICATIONS FOR THE QUIZZ GAME
 https://fkhadra.github.io/react-toastify/introduction/
